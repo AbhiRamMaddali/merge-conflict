@@ -1,0 +1,7 @@
+{
+  "application": "Demo App",
+  "version": "1.0",
+  "host": "localhost",
+  "environment": "dev",
+  "port": 5000
+}
